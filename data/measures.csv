@@ -1,0 +1,682 @@
+"species","competitor","shade","salt","tent","tray","roots","shoots"
+"Distichlis spicata","None","0",0,"C2",4,4.44,2.25
+"Distichlis spicata","None","0",0,"C1",8,7.03,3.27
+"Distichlis spicata","None","0",0,"C2",19,4.89,3.05
+"Distichlis spicata","None","0",0,"C1",28,7.11,4.08
+"Distichlis spicata","None","0",0,"C3",37,4.53,3.39
+"Distichlis spicata","None","0",0,"C3",47,2.93,2.26
+"Distichlis spicata","None","0",0,"C4",62,2.83,2.2
+"Distichlis spicata","None","0",0,"C4",64,5.71,3.04
+"Distichlis spicata","None","90",0,"D1",1,3,2.31
+"Distichlis spicata","None","90",0,"D3",18,2.11,2.59
+"Distichlis spicata","None","90",0,"D3",26,2.65,2.78
+"Distichlis spicata","None","90",0,"D1",31,2.31,2.04
+"Distichlis spicata","None","90",0,"D4",55,2.04,1.31
+"Distichlis spicata","None","90",0,"D2",58,2.33,2.49
+"Distichlis spicata","None","90",0,"D2",68,2.95,3.49
+"Distichlis spicata","None","90",0,"D4",72,1.8,2.76
+"Distichlis spicata","None","75",0,"S1",2,1.35,1.86
+"Distichlis spicata","None","75",0,"S3",16,2.13,2.64
+"Distichlis spicata","None","75",0,"S1",24,2.08,2.42
+"Distichlis spicata","None","75",0,"S3",35,2.96,2.54
+"Distichlis spicata","None","75",0,"S4",41,7.8,3.92
+"Distichlis spicata","None","75",0,"S2",43,7.3,4.06
+"Distichlis spicata","None","75",0,"S2",51,2.5,2.22
+"Distichlis spicata","None","75",0,"S4",54,6.08,2.76
+"Distichlis spicata","None","0",3,"C2",5,10.89,4.57
+"Distichlis spicata","None","0",3,"C1",6,4.88,2.55
+"Distichlis spicata","None","0",3,"C2",20,4.35,2.71
+"Distichlis spicata","None","0",3,"C1",29,6.14,2.8
+"Distichlis spicata","None","0",3,"C3",38,2.66,2.53
+"Distichlis spicata","None","0",3,"C3",45,1.81,2.34
+"Distichlis spicata","None","0",3,"C4",61,4.83,2.75
+"Distichlis spicata","None","0",3,"C4",65,6.25,2.9
+"Distichlis spicata","None","90",3,"D1",12,3.92,2.01
+"Distichlis spicata","None","90",3,"D3",13,1.33,1.8
+"Distichlis spicata","None","90",3,"D3",27,3.57,2.65
+"Distichlis spicata","None","90",3,"D1",32,2.51,2.19
+"Distichlis spicata","None","90",3,"D4",57,3.54,2.43
+"Distichlis spicata","None","90",3,"D2",59,3.97,2.17
+"Distichlis spicata","None","90",3,"D2",69,3.62,2.68
+"Distichlis spicata","None","90",3,"D4",71,5.25,2.85
+"Distichlis spicata","None","75",3,"S1",9,1.73,2.43
+"Distichlis spicata","None","75",3,"S3",17,2.57,1.79
+"Distichlis spicata","None","75",3,"S1",22,3.15,2.44
+"Distichlis spicata","None","75",3,"S3",34,3.74,2.61
+"Distichlis spicata","None","75",3,"S4",40,2.06,2.11
+"Distichlis spicata","None","75",3,"S2",42,3.42,2.2
+"Distichlis spicata","None","75",3,"S2",50,5.37,3.02
+"Distichlis spicata","None","75",3,"S4",53,4.67,3.5
+"Distichlis spicata","None","0",6,"C2",3,6.17,3.07
+"Distichlis spicata","None","0",6,"C1",7,2.67,1.57
+"Distichlis spicata","None","0",6,"C2",21,9.02,3.08
+"Distichlis spicata","None","0",6,"C1",30,4.44,2.64
+"Distichlis spicata","None","0",6,"C3",46,2.15,1.61
+"Distichlis spicata","None","0",6,"C3",48,3.96,3.01
+"Distichlis spicata","None","0",6,"C4",63,6.38,3.57
+"Distichlis spicata","None","0",6,"C4",66,6.8,2.2
+"Distichlis spicata","None","90",6,"D1",10,2.55,1.72
+"Distichlis spicata","None","90",6,"D3",15,1.74,1.43
+"Distichlis spicata","None","90",6,"D3",25,1.5,2.44
+"Distichlis spicata","None","90",6,"D1",33,2.04,1.52
+"Distichlis spicata","None","90",6,"D4",56,2.03,1.84
+"Distichlis spicata","None","90",6,"D2",60,3.16,2.07
+"Distichlis spicata","None","90",6,"D2",67,2.62,2.68
+"Distichlis spicata","None","90",6,"D4",70,4.94,2.49
+"Distichlis spicata","None","75",6,"S1",11,1.5,2.05
+"Distichlis spicata","None","75",6,"S3",14,2.64,2.25
+"Distichlis spicata","None","75",6,"S1",23,1.2,2.03
+"Distichlis spicata","None","75",6,"S3",36,3.63,3.37
+"Distichlis spicata","None","75",6,"S4",39,4.86,3.15
+"Distichlis spicata","None","75",6,"S2",44,3.26,2.26
+"Distichlis spicata","None","75",6,"S2",49,4.23,2.56
+"Distichlis spicata","None","75",6,"S4",52,3.45,2.19
+"Distichlis spicata","Panicum virgatum","0",0,"C2",4,2.59,1.53
+"Distichlis spicata","Panicum virgatum","0",0,"C1",8,4.23,1.77
+"Distichlis spicata","Panicum virgatum","0",0,"C2",19,5,1.36
+"Distichlis spicata","Panicum virgatum","0",0,"C1",28,3.19,0.99
+"Distichlis spicata","Panicum virgatum","0",0,"C3",37,0.6,1.41
+"Distichlis spicata","Panicum virgatum","0",0,"C3",47,3.36,2.15
+"Distichlis spicata","Panicum virgatum","0",0,"C4",62,5.5,1.61
+"Distichlis spicata","Panicum virgatum","0",0,"C4",64,1.97,0.8
+"Distichlis spicata","Panicum virgatum","90",0,"D1",1,2.52,1.78
+"Distichlis spicata","Panicum virgatum","90",0,"D3",18,2.1,1.6
+"Distichlis spicata","Panicum virgatum","90",0,"D3",26,3.44,1.59
+"Distichlis spicata","Panicum virgatum","90",0,"D1",31,2.8,1.18
+"Distichlis spicata","Panicum virgatum","90",0,"D4",55,3.74,1.28
+"Distichlis spicata","Panicum virgatum","90",0,"D2",58,6.7,1.7
+"Distichlis spicata","Panicum virgatum","90",0,"D2",68,3.92,2.31
+"Distichlis spicata","Panicum virgatum","90",0,"D4",72,3.51,1.58
+"Distichlis spicata","Panicum virgatum","75",0,"S1",2,1.09,1.38
+"Distichlis spicata","Panicum virgatum","75",0,"S3",16,1.15,0.83
+"Distichlis spicata","Panicum virgatum","75",0,"S1",24,1.48,0.94
+"Distichlis spicata","Panicum virgatum","75",0,"S3",35,2.06,1.6
+"Distichlis spicata","Panicum virgatum","75",0,"S2",43,2.28,0.68
+"Distichlis spicata","Panicum virgatum","75",0,"S2",51,2.94,0.82
+"Distichlis spicata","Panicum virgatum","75",0,"S4",54,2.09,1.48
+"Distichlis spicata","Panicum virgatum","0",3,"C2",5,1.23,1.44
+"Distichlis spicata","Panicum virgatum","0",3,"C1",6,4.23,2.15
+"Distichlis spicata","Panicum virgatum","0",3,"C2",20,3,1.16
+"Distichlis spicata","Panicum virgatum","0",3,"C1",29,9.3,2.23
+"Distichlis spicata","Panicum virgatum","0",3,"C3",38,5.35,1.18
+"Distichlis spicata","Panicum virgatum","0",3,"C3",45,9.92,1.78
+"Distichlis spicata","Panicum virgatum","0",3,"C4",65,1.18,1.22
+"Distichlis spicata","Panicum virgatum","90",3,"D1",12,1.45,1.44
+"Distichlis spicata","Panicum virgatum","90",3,"D3",13,0.76,1.32
+"Distichlis spicata","Panicum virgatum","90",3,"D3",27,1.89,1.51
+"Distichlis spicata","Panicum virgatum","90",3,"D1",32,0.2,0.45
+"Distichlis spicata","Panicum virgatum","90",3,"D4",57,3.77,1.59
+"Distichlis spicata","Panicum virgatum","90",3,"D2",59,3.35,1.68
+"Distichlis spicata","Panicum virgatum","90",3,"D2",69,2.68,1.54
+"Distichlis spicata","Panicum virgatum","90",3,"D4",71,3.51,1.93
+"Distichlis spicata","Panicum virgatum","75",3,"S1",9,1.07,1.39
+"Distichlis spicata","Panicum virgatum","75",3,"S3",17,1.04,1.38
+"Distichlis spicata","Panicum virgatum","75",3,"S1",22,2.27,1.9
+"Distichlis spicata","Panicum virgatum","75",3,"S3",34,2.63,1.18
+"Distichlis spicata","Panicum virgatum","75",3,"S4",40,3.6,0.93
+"Distichlis spicata","Panicum virgatum","75",3,"S2",42,2.04,1.12
+"Distichlis spicata","Panicum virgatum","75",3,"S2",50,1.29,1.14
+"Distichlis spicata","Panicum virgatum","75",3,"S4",53,1.18,1.41
+"Distichlis spicata","Panicum virgatum","0",6,"C2",3,2.68,1.52
+"Distichlis spicata","Panicum virgatum","0",6,"C1",7,2.4,1.03
+"Distichlis spicata","Panicum virgatum","0",6,"C2",21,1.85,1.1
+"Distichlis spicata","Panicum virgatum","0",6,"C1",30,2.05,1.35
+"Distichlis spicata","Panicum virgatum","0",6,"C3",46,3.29,2.23
+"Distichlis spicata","Panicum virgatum","0",6,"C3",48,2.01,2.01
+"Distichlis spicata","Panicum virgatum","0",6,"C4",63,4.67,2.12
+"Distichlis spicata","Panicum virgatum","0",6,"C4",66,11.01,1.92
+"Distichlis spicata","Panicum virgatum","90",6,"D1",10,3.03,1.1
+"Distichlis spicata","Panicum virgatum","90",6,"D3",15,2.07,1.26
+"Distichlis spicata","Panicum virgatum","90",6,"D3",25,1.12,1.03
+"Distichlis spicata","Panicum virgatum","90",6,"D1",33,0.74,0.81
+"Distichlis spicata","Panicum virgatum","90",6,"D4",56,2.84,0.95
+"Distichlis spicata","Panicum virgatum","90",6,"D2",60,8.29,1.75
+"Distichlis spicata","Panicum virgatum","90",6,"D2",67,7.84,1.77
+"Distichlis spicata","Panicum virgatum","90",6,"D4",70,6.11,1.83
+"Distichlis spicata","Panicum virgatum","75",6,"S1",11,1.35,1.3
+"Distichlis spicata","Panicum virgatum","75",6,"S3",14,1.12,1.01
+"Distichlis spicata","Panicum virgatum","75",6,"S3",36,3.85,1.5
+"Distichlis spicata","Panicum virgatum","75",6,"S4",39,1.95,1.41
+"Distichlis spicata","Panicum virgatum","75",6,"S2",44,2.25,1.25
+"Distichlis spicata","Panicum virgatum","75",6,"S2",49,2.61,1.66
+"Distichlis spicata","Panicum virgatum","75",6,"S4",52,4.73,1.76
+"Panicum virgatum","Distichlis spicata","0",0,"C2",4,4.18,2.23
+"Panicum virgatum","Distichlis spicata","0",0,"C1",8,5.74,2.54
+"Panicum virgatum","Distichlis spicata","0",0,"C2",19,5.38,2.85
+"Panicum virgatum","Distichlis spicata","0",0,"C1",28,4.48,3.84
+"Panicum virgatum","Distichlis spicata","0",0,"C3",37,3.16,2.05
+"Panicum virgatum","Distichlis spicata","0",0,"C3",47,3.67,2.28
+"Panicum virgatum","Distichlis spicata","0",0,"C4",62,2.7,2.36
+"Panicum virgatum","Distichlis spicata","0",0,"C4",64,6.31,3.33
+"Panicum virgatum","Distichlis spicata","90",0,"D1",1,2.76,0.9
+"Panicum virgatum","Distichlis spicata","90",0,"D3",18,3.05,2.8
+"Panicum virgatum","Distichlis spicata","90",0,"D3",26,1.84,2.86
+"Panicum virgatum","Distichlis spicata","90",0,"D1",31,1.26,1.85
+"Panicum virgatum","Distichlis spicata","90",0,"D4",55,3.34,2.63
+"Panicum virgatum","Distichlis spicata","90",0,"D2",58,2.45,1.57
+"Panicum virgatum","Distichlis spicata","90",0,"D2",68,3.94,2.02
+"Panicum virgatum","Distichlis spicata","90",0,"D4",72,2.82,2.28
+"Panicum virgatum","Distichlis spicata","75",0,"S1",2,3.36,3.55
+"Panicum virgatum","Distichlis spicata","75",0,"S3",16,2.13,2.29
+"Panicum virgatum","Distichlis spicata","75",0,"S1",24,2.76,2.11
+"Panicum virgatum","Distichlis spicata","75",0,"S3",35,2.67,1.88
+"Panicum virgatum","Distichlis spicata","75",0,"S4",41,4.62,3.55
+"Panicum virgatum","Distichlis spicata","75",0,"S2",43,4.55,2.75
+"Panicum virgatum","Distichlis spicata","75",0,"S2",51,3.27,3.34
+"Panicum virgatum","Distichlis spicata","75",0,"S4",54,3.24,2.35
+"Panicum virgatum","Distichlis spicata","0",3,"C2",5,1.74,2.05
+"Panicum virgatum","Distichlis spicata","0",3,"C1",6,3.4,0.94
+"Panicum virgatum","Distichlis spicata","0",3,"C2",20,4.21,2.5
+"Panicum virgatum","Distichlis spicata","0",3,"C1",29,1.39,2.69
+"Panicum virgatum","Distichlis spicata","0",3,"C3",38,1.47,1.27
+"Panicum virgatum","Distichlis spicata","0",3,"C3",45,6.33,3.4
+"Panicum virgatum","Distichlis spicata","0",3,"C4",65,4.16,2.94
+"Panicum virgatum","Distichlis spicata","90",3,"D1",12,2.02,1.59
+"Panicum virgatum","Distichlis spicata","90",3,"D3",13,1.08,1.69
+"Panicum virgatum","Distichlis spicata","90",3,"D3",27,2.88,1.76
+"Panicum virgatum","Distichlis spicata","90",3,"D1",32,3.67,2.34
+"Panicum virgatum","Distichlis spicata","90",3,"D4",57,3.8,2.52
+"Panicum virgatum","Distichlis spicata","90",3,"D2",59,2.28,2.11
+"Panicum virgatum","Distichlis spicata","90",3,"D2",69,1.35,1.37
+"Panicum virgatum","Distichlis spicata","90",3,"D4",71,1.48,0.93
+"Panicum virgatum","Distichlis spicata","75",3,"S1",9,1.82,2.23
+"Panicum virgatum","Distichlis spicata","75",3,"S3",17,3.6,2.34
+"Panicum virgatum","Distichlis spicata","75",3,"S1",22,0.98,1.79
+"Panicum virgatum","Distichlis spicata","75",3,"S3",34,3.04,2.17
+"Panicum virgatum","Distichlis spicata","75",3,"S4",40,3.05,2.64
+"Panicum virgatum","Distichlis spicata","75",3,"S2",42,4.38,2.75
+"Panicum virgatum","Distichlis spicata","75",3,"S2",50,4.18,2.63
+"Panicum virgatum","Distichlis spicata","75",3,"S4",53,3.95,2.11
+"Panicum virgatum","Distichlis spicata","0",6,"C2",3,2.36,2.22
+"Panicum virgatum","Distichlis spicata","0",6,"C1",7,2.54,2.76
+"Panicum virgatum","Distichlis spicata","0",6,"C2",21,2.4,1.82
+"Panicum virgatum","Distichlis spicata","0",6,"C1",30,2.76,3.31
+"Panicum virgatum","Distichlis spicata","0",6,"C3",46,2.26,1.82
+"Panicum virgatum","Distichlis spicata","0",6,"C3",48,1.63,0.56
+"Panicum virgatum","Distichlis spicata","0",6,"C4",63,2.66,1.73
+"Panicum virgatum","Distichlis spicata","0",6,"C4",66,9.24,2.46
+"Panicum virgatum","Distichlis spicata","90",6,"D1",10,1.68,1.44
+"Panicum virgatum","Distichlis spicata","90",6,"D3",15,1.19,1.2
+"Panicum virgatum","Distichlis spicata","90",6,"D3",25,1.78,2
+"Panicum virgatum","Distichlis spicata","90",6,"D1",33,2.24,1.42
+"Panicum virgatum","Distichlis spicata","90",6,"D4",56,3.62,2.27
+"Panicum virgatum","Distichlis spicata","90",6,"D2",60,2.77,2.08
+"Panicum virgatum","Distichlis spicata","90",6,"D2",67,5.36,2.74
+"Panicum virgatum","Distichlis spicata","90",6,"D4",70,3.01,2.03
+"Panicum virgatum","Distichlis spicata","75",6,"S1",11,1.82,1.7
+"Panicum virgatum","Distichlis spicata","75",6,"S3",14,2.71,3.11
+"Panicum virgatum","Distichlis spicata","75",6,"S3",36,1.82,1.54
+"Panicum virgatum","Distichlis spicata","75",6,"S4",39,4.84,3.2
+"Panicum virgatum","Distichlis spicata","75",6,"S2",44,4,2.19
+"Panicum virgatum","Distichlis spicata","75",6,"S2",49,2.9,1.81
+"Panicum virgatum","Distichlis spicata","75",6,"S4",52,3.65,2.72
+"Panicum virgatum","None","0",0,"C2",4,9.48,5.57
+"Panicum virgatum","None","0",0,"C1",8,5.72,3.68
+"Panicum virgatum","None","0",0,"C1",28,7.02,7.75
+"Panicum virgatum","None","0",0,"C3",37,3.07,2.49
+"Panicum virgatum","None","0",0,"C3",47,5.02,4.92
+"Panicum virgatum","None","0",0,"C4",62,5.02,4.07
+"Panicum virgatum","None","0",0,"C4",64,6.5,4.72
+"Panicum virgatum","None","90",0,"D1",1,5.23,3.4
+"Panicum virgatum","None","90",0,"D3",18,3.96,3.06
+"Panicum virgatum","None","90",0,"D3",26,3.03,2.83
+"Panicum virgatum","None","90",0,"D1",31,1.99,2.18
+"Panicum virgatum","None","90",0,"D4",55,9.71,6.88
+"Panicum virgatum","None","90",0,"D2",58,8.81,2.79
+"Panicum virgatum","None","90",0,"D2",68,3.59,4.33
+"Panicum virgatum","None","90",0,"D4",72,3.35,3.88
+"Panicum virgatum","None","75",0,"S1",2,1.52,2.54
+"Panicum virgatum","None","75",0,"S3",16,2.92,3.44
+"Panicum virgatum","None","75",0,"S1",24,1.97,2.19
+"Panicum virgatum","None","75",0,"S3",35,3.26,4.28
+"Panicum virgatum","None","75",0,"S4",41,5.71,2.95
+"Panicum virgatum","None","75",0,"S2",43,3.16,2.15
+"Panicum virgatum","None","75",0,"S2",51,6.1,2.74
+"Panicum virgatum","None","75",0,"S4",54,3.11,2.25
+"Panicum virgatum","None","0",3,"C2",5,5.36,3.22
+"Panicum virgatum","None","0",3,"C1",6,2.88,3.56
+"Panicum virgatum","None","0",3,"C2",20,5.22,2.89
+"Panicum virgatum","None","0",3,"C1",29,8.4,3.86
+"Panicum virgatum","None","0",3,"C3",38,6.77,4.93
+"Panicum virgatum","None","0",3,"C3",45,4.7,4.18
+"Panicum virgatum","None","0",3,"C4",61,2.65,3.16
+"Panicum virgatum","None","0",3,"C4",65,4,4.91
+"Panicum virgatum","None","90",3,"D1",12,3.63,3.01
+"Panicum virgatum","None","90",3,"D3",13,3.43,2.99
+"Panicum virgatum","None","90",3,"D3",27,6.32,4.37
+"Panicum virgatum","None","90",3,"D1",32,2.67,1.74
+"Panicum virgatum","None","90",3,"D4",57,4.71,4.31
+"Panicum virgatum","None","90",3,"D2",59,2.16,2.35
+"Panicum virgatum","None","90",3,"D2",69,2.91,3.7
+"Panicum virgatum","None","90",3,"D4",71,5.61,2.45
+"Panicum virgatum","None","75",3,"S1",9,3.34,5.93
+"Panicum virgatum","None","75",3,"S3",17,2.2,2.69
+"Panicum virgatum","None","75",3,"S1",22,4.09,3.28
+"Panicum virgatum","None","75",3,"S3",34,5.76,4.21
+"Panicum virgatum","None","75",3,"S4",40,10.16,4.23
+"Panicum virgatum","None","75",3,"S2",42,5.24,3.9
+"Panicum virgatum","None","75",3,"S2",50,3.45,2
+"Panicum virgatum","None","75",3,"S4",53,5.66,4.8
+"Panicum virgatum","None","0",6,"C2",3,5.18,3.95
+"Panicum virgatum","None","0",6,"C1",7,3.3,2.63
+"Panicum virgatum","None","0",6,"C2",21,5.35,3.95
+"Panicum virgatum","None","0",6,"C1",30,2.2,1.74
+"Panicum virgatum","None","0",6,"C3",46,2.37,3.26
+"Panicum virgatum","None","0",6,"C3",48,4.12,6.42
+"Panicum virgatum","None","0",6,"C4",63,2.42,2.33
+"Panicum virgatum","None","0",6,"C4",66,2.64,1.94
+"Panicum virgatum","None","90",6,"D1",10,4.72,2.92
+"Panicum virgatum","None","90",6,"D3",15,2.28,2.99
+"Panicum virgatum","None","90",6,"D3",25,2.57,3.04
+"Panicum virgatum","None","90",6,"D1",33,4.59,3.16
+"Panicum virgatum","None","90",6,"D4",56,2.82,1.49
+"Panicum virgatum","None","90",6,"D2",60,3.84,2.54
+"Panicum virgatum","None","90",6,"D2",67,2.69,2.35
+"Panicum virgatum","None","90",6,"D4",70,4.24,4.17
+"Panicum virgatum","None","75",6,"S1",11,1.83,3.5
+"Panicum virgatum","None","75",6,"S3",14,2.86,3.39
+"Panicum virgatum","None","75",6,"S1",23,1.18,1.09
+"Panicum virgatum","None","75",6,"S3",36,2.77,3.2
+"Panicum virgatum","None","75",6,"S4",39,6.01,4.64
+"Panicum virgatum","None","75",6,"S2",44,3.46,2.98
+"Panicum virgatum","None","75",6,"S2",49,2.28,2.37
+"Panicum virgatum","None","75",6,"S4",52,5.74,3.94
+"Panicum virgatum","Spartina alterniflora","0",0,"C2",4,3.5,3.26
+"Panicum virgatum","Spartina alterniflora","0",0,"C1",8,8.99,4.04
+"Panicum virgatum","Spartina alterniflora","0",0,"C2",19,8.97,4.73
+"Panicum virgatum","Spartina alterniflora","0",0,"C1",28,7.07,4.3
+"Panicum virgatum","Spartina alterniflora","0",0,"C3",37,6.07,5
+"Panicum virgatum","Spartina alterniflora","0",0,"C3",47,5.66,3.37
+"Panicum virgatum","Spartina alterniflora","0",0,"C4",62,4.5,3.31
+"Panicum virgatum","Spartina alterniflora","0",0,"C4",64,6.54,4.6
+"Panicum virgatum","Spartina alterniflora","90",0,"D3",18,2.02,5.56
+"Panicum virgatum","Spartina alterniflora","90",0,"D3",26,5.11,4.24
+"Panicum virgatum","Spartina alterniflora","90",0,"D1",31,2.34,2.29
+"Panicum virgatum","Spartina alterniflora","90",0,"D4",55,3.98,2.84
+"Panicum virgatum","Spartina alterniflora","90",0,"D2",58,1.58,2.69
+"Panicum virgatum","Spartina alterniflora","90",0,"D2",68,4.08,8.08
+"Panicum virgatum","Spartina alterniflora","90",0,"D4",72,4.23,3.17
+"Panicum virgatum","Spartina alterniflora","75",0,"S1",2,2.71,2.15
+"Panicum virgatum","Spartina alterniflora","75",0,"S3",16,5.36,3.52
+"Panicum virgatum","Spartina alterniflora","75",0,"S1",24,5.08,3.92
+"Panicum virgatum","Spartina alterniflora","75",0,"S3",35,5.37,3.59
+"Panicum virgatum","Spartina alterniflora","75",0,"S4",41,3.16,3.62
+"Panicum virgatum","Spartina alterniflora","75",0,"S2",51,8.64,3.8
+"Panicum virgatum","Spartina alterniflora","75",0,"S4",54,6.28,4.56
+"Panicum virgatum","Spartina alterniflora","0",3,"C2",5,9.01,4.17
+"Panicum virgatum","Spartina alterniflora","0",3,"C1",6,2.3,1.15
+"Panicum virgatum","Spartina alterniflora","0",3,"C2",20,5,3.07
+"Panicum virgatum","Spartina alterniflora","0",3,"C1",29,7.07,2.92
+"Panicum virgatum","Spartina alterniflora","0",3,"C3",45,4.34,2.74
+"Panicum virgatum","Spartina alterniflora","0",3,"C4",61,5.22,2.57
+"Panicum virgatum","Spartina alterniflora","0",3,"C4",65,3.03,4.11
+"Panicum virgatum","Spartina alterniflora","90",3,"D1",12,3.46,3.12
+"Panicum virgatum","Spartina alterniflora","90",3,"D3",13,1.96,1.77
+"Panicum virgatum","Spartina alterniflora","90",3,"D3",27,1.37,1.6
+"Panicum virgatum","Spartina alterniflora","90",3,"D1",32,2.01,2.31
+"Panicum virgatum","Spartina alterniflora","90",3,"D4",57,2.54,3.71
+"Panicum virgatum","Spartina alterniflora","90",3,"D2",59,1.87,4.15
+"Panicum virgatum","Spartina alterniflora","90",3,"D2",69,5.25,3.07
+"Panicum virgatum","Spartina alterniflora","75",3,"S1",9,3.45,3.8
+"Panicum virgatum","Spartina alterniflora","75",3,"S3",17,4.02,3.49
+"Panicum virgatum","Spartina alterniflora","75",3,"S1",22,2.78,2.87
+"Panicum virgatum","Spartina alterniflora","75",3,"S3",34,3.67,4.05
+"Panicum virgatum","Spartina alterniflora","75",3,"S4",40,4.75,3.73
+"Panicum virgatum","Spartina alterniflora","75",3,"S2",42,5.33,4.24
+"Panicum virgatum","Spartina alterniflora","75",3,"S2",50,6.2,2.76
+"Panicum virgatum","Spartina alterniflora","75",3,"S4",53,5.11,3.68
+"Panicum virgatum","Spartina alterniflora","0",6,"C2",3,7.23,4.61
+"Panicum virgatum","Spartina alterniflora","0",6,"C1",7,1.96,1.99
+"Panicum virgatum","Spartina alterniflora","0",6,"C2",21,8.17,3.77
+"Panicum virgatum","Spartina alterniflora","0",6,"C1",30,4.21,3.42
+"Panicum virgatum","Spartina alterniflora","0",6,"C3",46,2.2,4.16
+"Panicum virgatum","Spartina alterniflora","0",6,"C4",63,4.21,3.38
+"Panicum virgatum","Spartina alterniflora","0",6,"C4",66,5.2,2.5
+"Panicum virgatum","Spartina alterniflora","90",6,"D1",10,3.27,4.81
+"Panicum virgatum","Spartina alterniflora","90",6,"D3",25,3.93,4.93
+"Panicum virgatum","Spartina alterniflora","90",6,"D1",33,2.15,2.15
+"Panicum virgatum","Spartina alterniflora","90",6,"D4",56,4.54,2.07
+"Panicum virgatum","Spartina alterniflora","90",6,"D2",60,6.55,4.32
+"Panicum virgatum","Spartina alterniflora","90",6,"D2",67,3.51,2.93
+"Panicum virgatum","Spartina alterniflora","90",6,"D4",70,5.1,4.61
+"Panicum virgatum","Spartina alterniflora","75",6,"S1",11,3.21,4.08
+"Panicum virgatum","Spartina alterniflora","75",6,"S3",14,2.39,1.76
+"Panicum virgatum","Spartina alterniflora","75",6,"S3",36,2.5,2.55
+"Panicum virgatum","Spartina alterniflora","75",6,"S4",39,4.19,3.18
+"Panicum virgatum","Spartina alterniflora","75",6,"S2",44,4.08,2.44
+"Panicum virgatum","Spartina alterniflora","75",6,"S2",49,5.05,3.93
+"Panicum virgatum","Spartina patens","0",0,"C2",4,4.28,3.19
+"Panicum virgatum","Spartina patens","0",0,"C1",8,3.25,2.75
+"Panicum virgatum","Spartina patens","0",0,"C2",19,8.33,2.68
+"Panicum virgatum","Spartina patens","0",0,"C1",28,5.78,3.01
+"Panicum virgatum","Spartina patens","0",0,"C3",47,2.21,1.79
+"Panicum virgatum","Spartina patens","0",0,"C4",62,3.4,2.77
+"Panicum virgatum","Spartina patens","0",0,"C4",64,2.55,2.24
+"Panicum virgatum","Spartina patens","90",0,"D1",1,3.16,2
+"Panicum virgatum","Spartina patens","90",0,"D3",18,3.81,3.41
+"Panicum virgatum","Spartina patens","90",0,"D3",26,3.23,2.21
+"Panicum virgatum","Spartina patens","90",0,"D1",31,2.3,2.72
+"Panicum virgatum","Spartina patens","90",0,"D4",55,3.4,2.4
+"Panicum virgatum","Spartina patens","90",0,"D2",58,2.77,1.62
+"Panicum virgatum","Spartina patens","90",0,"D2",68,3.61,1.68
+"Panicum virgatum","Spartina patens","75",0,"S1",2,1.51,1.8
+"Panicum virgatum","Spartina patens","75",0,"S3",16,3.45,3.2
+"Panicum virgatum","Spartina patens","75",0,"S1",24,3.38,2.56
+"Panicum virgatum","Spartina patens","75",0,"S3",35,2.7,2.61
+"Panicum virgatum","Spartina patens","75",0,"S4",41,2.32,1.96
+"Panicum virgatum","Spartina patens","75",0,"S2",43,3.51,1.98
+"Panicum virgatum","Spartina patens","75",0,"S2",51,3.72,2.56
+"Panicum virgatum","Spartina patens","75",0,"S4",54,4.48,3.6
+"Panicum virgatum","Spartina patens","0",3,"C2",5,2.86,2.19
+"Panicum virgatum","Spartina patens","0",3,"C1",6,2.81,8.48
+"Panicum virgatum","Spartina patens","0",3,"C2",20,2.3,3.69
+"Panicum virgatum","Spartina patens","0",3,"C1",29,3.19,1.95
+"Panicum virgatum","Spartina patens","0",3,"C3",38,3.7,2.72
+"Panicum virgatum","Spartina patens","0",3,"C3",45,2.83,2
+"Panicum virgatum","Spartina patens","0",3,"C4",61,2.69,2.44
+"Panicum virgatum","Spartina patens","0",3,"C4",65,2.61,1.77
+"Panicum virgatum","Spartina patens","90",3,"D3",13,2.19,1.33
+"Panicum virgatum","Spartina patens","90",3,"D3",27,1.15,1.33
+"Panicum virgatum","Spartina patens","90",3,"D1",32,3.88,1.67
+"Panicum virgatum","Spartina patens","90",3,"D4",57,3.24,4.49
+"Panicum virgatum","Spartina patens","90",3,"D2",59,2.79,2.19
+"Panicum virgatum","Spartina patens","90",3,"D2",69,2.63,1.53
+"Panicum virgatum","Spartina patens","90",3,"D4",71,1.44,1.82
+"Panicum virgatum","Spartina patens","75",3,"S1",9,3.18,2.64
+"Panicum virgatum","Spartina patens","75",3,"S3",17,1.69,0.86
+"Panicum virgatum","Spartina patens","75",3,"S1",22,1.99,2.77
+"Panicum virgatum","Spartina patens","75",3,"S4",40,6.84,1.82
+"Panicum virgatum","Spartina patens","75",3,"S2",42,5.32,2.99
+"Panicum virgatum","Spartina patens","75",3,"S2",50,2.4,1.51
+"Panicum virgatum","Spartina patens","75",3,"S4",53,3.6,2.93
+"Panicum virgatum","Spartina patens","0",6,"C2",3,3.41,2.1
+"Panicum virgatum","Spartina patens","0",6,"C1",7,5.06,2.4
+"Panicum virgatum","Spartina patens","0",6,"C2",21,5.03,1.96
+"Panicum virgatum","Spartina patens","0",6,"C1",30,5.95,2.6
+"Panicum virgatum","Spartina patens","0",6,"C3",46,3.55,3.35
+"Panicum virgatum","Spartina patens","0",6,"C3",48,2.48,1.86
+"Panicum virgatum","Spartina patens","0",6,"C4",63,2.95,1.8
+"Panicum virgatum","Spartina patens","0",6,"C4",66,4.45,2.79
+"Panicum virgatum","Spartina patens","90",6,"D1",10,3.5,2.35
+"Panicum virgatum","Spartina patens","90",6,"D3",15,1.93,1.59
+"Panicum virgatum","Spartina patens","90",6,"D3",25,2.96,2.77
+"Panicum virgatum","Spartina patens","90",6,"D4",56,1.95,1.77
+"Panicum virgatum","Spartina patens","90",6,"D2",60,2.96,1.84
+"Panicum virgatum","Spartina patens","90",6,"D2",67,2.13,1.48
+"Panicum virgatum","Spartina patens","90",6,"D4",70,3.25,2.15
+"Panicum virgatum","Spartina patens","75",6,"S1",11,2.5,2.14
+"Panicum virgatum","Spartina patens","75",6,"S3",14,2.01,1.7
+"Panicum virgatum","Spartina patens","75",6,"S1",23,1.49,1.88
+"Panicum virgatum","Spartina patens","75",6,"S3",36,2.15,2.42
+"Panicum virgatum","Spartina patens","75",6,"S4",39,1.53,1.9
+"Panicum virgatum","Spartina patens","75",6,"S2",44,3.78,1.87
+"Panicum virgatum","Spartina patens","75",6,"S2",49,1.64,2.41
+"Panicum virgatum","Spartina patens","75",6,"S4",52,3.31,2.12
+"Spartina alterniflora","None","0",0,"C2",4,2.22,2.06
+"Spartina alterniflora","None","0",0,"C1",8,5.25,4.19
+"Spartina alterniflora","None","0",0,"C2",19,8.22,4.52
+"Spartina alterniflora","None","0",0,"C1",28,6.43,3.76
+"Spartina alterniflora","None","0",0,"C3",37,3.53,4.44
+"Spartina alterniflora","None","0",0,"C3",47,2.07,1.1
+"Spartina alterniflora","None","0",0,"C4",64,1.7,1.52
+"Spartina alterniflora","None","90",0,"D1",1,9.71,3.58
+"Spartina alterniflora","None","90",0,"D3",18,3.81,4.7
+"Spartina alterniflora","None","90",0,"D3",26,3.67,3.33
+"Spartina alterniflora","None","90",0,"D1",31,3.74,2.59
+"Spartina alterniflora","None","90",0,"D4",55,2.14,1.23
+"Spartina alterniflora","None","90",0,"D2",58,3.2,3.92
+"Spartina alterniflora","None","90",0,"D2",68,1.73,1.17
+"Spartina alterniflora","None","90",0,"D4",72,2.84,2.77
+"Spartina alterniflora","None","75",0,"S1",2,2.24,4.91
+"Spartina alterniflora","None","75",0,"S3",16,4.55,3.77
+"Spartina alterniflora","None","75",0,"S1",24,1.99,3
+"Spartina alterniflora","None","75",0,"S3",35,2.19,1.86
+"Spartina alterniflora","None","75",0,"S4",41,2.89,2.35
+"Spartina alterniflora","None","75",0,"S2",43,7.91,4.02
+"Spartina alterniflora","None","75",0,"S4",54,4.2,2.55
+"Spartina alterniflora","None","0",3,"C2",5,5.81,2.94
+"Spartina alterniflora","None","0",3,"C1",6,4.78,3.83
+"Spartina alterniflora","None","0",3,"C2",20,9.08,4.26
+"Spartina alterniflora","None","0",3,"C1",29,8.17,4.11
+"Spartina alterniflora","None","0",3,"C3",38,6.86,3.87
+"Spartina alterniflora","None","0",3,"C3",45,4.37,2.95
+"Spartina alterniflora","None","0",3,"C4",61,2.56,2.14
+"Spartina alterniflora","None","0",3,"C4",65,8.21,5.57
+"Spartina alterniflora","None","90",3,"D1",12,2.1,2.93
+"Spartina alterniflora","None","90",3,"D3",13,1.95,1.71
+"Spartina alterniflora","None","90",3,"D3",27,4.61,3.4
+"Spartina alterniflora","None","90",3,"D1",32,1.28,1.22
+"Spartina alterniflora","None","90",3,"D4",57,4.26,2.19
+"Spartina alterniflora","None","90",3,"D2",59,2.79,3.39
+"Spartina alterniflora","None","90",3,"D2",69,6.92,4.62
+"Spartina alterniflora","None","90",3,"D4",71,2.71,3.51
+"Spartina alterniflora","None","75",3,"S1",9,2.72,4.73
+"Spartina alterniflora","None","75",3,"S3",17,5.21,5.04
+"Spartina alterniflora","None","75",3,"S1",22,2.26,4.04
+"Spartina alterniflora","None","75",3,"S3",34,6.71,6.74
+"Spartina alterniflora","None","75",3,"S4",40,4.56,4.13
+"Spartina alterniflora","None","75",3,"S2",42,3.29,2.43
+"Spartina alterniflora","None","75",3,"S2",50,4.01,4.31
+"Spartina alterniflora","None","75",3,"S4",53,5.98,3.47
+"Spartina alterniflora","None","0",6,"C2",3,5.76,3.28
+"Spartina alterniflora","None","0",6,"C1",7,9.19,4.01
+"Spartina alterniflora","None","0",6,"C2",21,10.07,3.77
+"Spartina alterniflora","None","0",6,"C1",30,9.74,4.26
+"Spartina alterniflora","None","0",6,"C3",48,4.08,4.73
+"Spartina alterniflora","None","0",6,"C4",63,3.42,3.84
+"Spartina alterniflora","None","0",6,"C4",66,12.23,4.63
+"Spartina alterniflora","None","90",6,"D1",10,5.39,4.42
+"Spartina alterniflora","None","90",6,"D3",15,2.11,1.75
+"Spartina alterniflora","None","90",6,"D3",25,6.73,3.65
+"Spartina alterniflora","None","90",6,"D1",33,5.33,4.03
+"Spartina alterniflora","None","90",6,"D4",56,2.53,2.6
+"Spartina alterniflora","None","90",6,"D2",60,1.79,1.72
+"Spartina alterniflora","None","90",6,"D2",67,2.68,3.05
+"Spartina alterniflora","None","90",6,"D4",70,2.98,1.92
+"Spartina alterniflora","None","75",6,"S1",11,2.04,2.43
+"Spartina alterniflora","None","75",6,"S3",14,3.32,3.76
+"Spartina alterniflora","None","75",6,"S1",23,3.57,3.9
+"Spartina alterniflora","None","75",6,"S3",36,4.54,4.04
+"Spartina alterniflora","None","75",6,"S4",39,6.84,5.14
+"Spartina alterniflora","None","75",6,"S2",44,2.59,2.75
+"Spartina alterniflora","None","75",6,"S2",49,6.14,5.79
+"Spartina alterniflora","None","75",6,"S4",52,4.96,5.1
+"Spartina alterniflora","Panicum virgatum","0",0,"C2",4,5.69,3.72
+"Spartina alterniflora","Panicum virgatum","0",0,"C1",8,5.31,1.85
+"Spartina alterniflora","Panicum virgatum","0",0,"C2",19,4.09,2.03
+"Spartina alterniflora","Panicum virgatum","0",0,"C1",28,6.16,2.35
+"Spartina alterniflora","Panicum virgatum","0",0,"C3",37,2.89,1.45
+"Spartina alterniflora","Panicum virgatum","0",0,"C3",47,2.49,2.19
+"Spartina alterniflora","Panicum virgatum","0",0,"C4",62,2.75,1.96
+"Spartina alterniflora","Panicum virgatum","0",0,"C4",64,3.34,2.64
+"Spartina alterniflora","Panicum virgatum","90",0,"D3",18,3.07,4.49
+"Spartina alterniflora","Panicum virgatum","90",0,"D3",26,2.26,2.08
+"Spartina alterniflora","Panicum virgatum","90",0,"D1",31,7.88,4.57
+"Spartina alterniflora","Panicum virgatum","90",0,"D4",55,1.48,0.94
+"Spartina alterniflora","Panicum virgatum","90",0,"D2",58,3.25,2.45
+"Spartina alterniflora","Panicum virgatum","90",0,"D2",68,4.42,2.26
+"Spartina alterniflora","Panicum virgatum","90",0,"D4",72,2.53,1.09
+"Spartina alterniflora","Panicum virgatum","75",0,"S1",2,1.39,1.52
+"Spartina alterniflora","Panicum virgatum","75",0,"S3",16,5.72,3.69
+"Spartina alterniflora","Panicum virgatum","75",0,"S1",24,1.28,1.22
+"Spartina alterniflora","Panicum virgatum","75",0,"S3",35,3.49,2.4
+"Spartina alterniflora","Panicum virgatum","75",0,"S4",41,2.05,1.43
+"Spartina alterniflora","Panicum virgatum","75",0,"S2",51,2.56,0.82
+"Spartina alterniflora","Panicum virgatum","75",0,"S4",54,4.51,5.45
+"Spartina alterniflora","Panicum virgatum","0",3,"C2",5,10.4,3.56
+"Spartina alterniflora","Panicum virgatum","0",3,"C1",6,1.65,0.38
+"Spartina alterniflora","Panicum virgatum","0",3,"C2",20,6.73,2.42
+"Spartina alterniflora","Panicum virgatum","0",3,"C1",29,4.08,3.37
+"Spartina alterniflora","Panicum virgatum","0",3,"C3",45,4.42,2.59
+"Spartina alterniflora","Panicum virgatum","0",3,"C4",61,1.32,1.45
+"Spartina alterniflora","Panicum virgatum","0",3,"C4",65,7.99,2.04
+"Spartina alterniflora","Panicum virgatum","90",3,"D1",12,3.41,2.16
+"Spartina alterniflora","Panicum virgatum","90",3,"D3",13,3.78,1.98
+"Spartina alterniflora","Panicum virgatum","90",3,"D3",27,3.12,1.99
+"Spartina alterniflora","Panicum virgatum","90",3,"D1",32,4.92,2.6
+"Spartina alterniflora","Panicum virgatum","90",3,"D4",57,1.28,1.14
+"Spartina alterniflora","Panicum virgatum","90",3,"D2",59,4.93,1.44
+"Spartina alterniflora","Panicum virgatum","90",3,"D2",69,3.27,1.54
+"Spartina alterniflora","Panicum virgatum","75",3,"S1",9,0.61,1.19
+"Spartina alterniflora","Panicum virgatum","75",3,"S3",17,2.91,1.12
+"Spartina alterniflora","Panicum virgatum","75",3,"S1",22,2.46,4.36
+"Spartina alterniflora","Panicum virgatum","75",3,"S3",34,3.84,2.98
+"Spartina alterniflora","Panicum virgatum","75",3,"S4",40,4.73,1.39
+"Spartina alterniflora","Panicum virgatum","75",3,"S2",42,1.46,0.32
+"Spartina alterniflora","Panicum virgatum","75",3,"S2",50,5.92,2.02
+"Spartina alterniflora","Panicum virgatum","75",3,"S4",53,7.11,1.71
+"Spartina alterniflora","Panicum virgatum","0",6,"C2",3,2.06,1.1
+"Spartina alterniflora","Panicum virgatum","0",6,"C1",7,3.13,1.51
+"Spartina alterniflora","Panicum virgatum","0",6,"C2",21,10.43,1.4
+"Spartina alterniflora","Panicum virgatum","0",6,"C1",30,4.8,2.32
+"Spartina alterniflora","Panicum virgatum","0",6,"C3",46,2.42,2.35
+"Spartina alterniflora","Panicum virgatum","0",6,"C4",63,2.38,1.19
+"Spartina alterniflora","Panicum virgatum","0",6,"C4",66,5.09,1.39
+"Spartina alterniflora","Panicum virgatum","90",6,"D1",10,5.51,3.32
+"Spartina alterniflora","Panicum virgatum","90",6,"D3",25,4.66,1.89
+"Spartina alterniflora","Panicum virgatum","90",6,"D1",33,8.4,1.56
+"Spartina alterniflora","Panicum virgatum","90",6,"D4",56,0.79,1.57
+"Spartina alterniflora","Panicum virgatum","90",6,"D2",60,5.63,2.9
+"Spartina alterniflora","Panicum virgatum","90",6,"D2",67,3.39,2.44
+"Spartina alterniflora","Panicum virgatum","90",6,"D4",70,10.78,2.9
+"Spartina alterniflora","Panicum virgatum","75",6,"S1",11,1.66,2.37
+"Spartina alterniflora","Panicum virgatum","75",6,"S3",14,3.34,2.28
+"Spartina alterniflora","Panicum virgatum","75",6,"S3",36,2.75,2.14
+"Spartina alterniflora","Panicum virgatum","75",6,"S4",39,2.03,1.72
+"Spartina alterniflora","Panicum virgatum","75",6,"S2",44,5.12,3.1
+"Spartina alterniflora","Panicum virgatum","75",6,"S2",49,1.26,1.25
+"Spartina patens","None","0",0,"C2",4,2.4,7.38
+"Spartina patens","None","0",0,"C1",8,3.63,5.66
+"Spartina patens","None","0",0,"C2",19,5.84,8.37
+"Spartina patens","None","0",0,"C1",28,6.09,5.72
+"Spartina patens","None","0",0,"C3",37,2.48,6.45
+"Spartina patens","None","0",0,"C3",47,1.29,7.07
+"Spartina patens","None","0",0,"C4",62,6.78,7.5
+"Spartina patens","None","90",0,"D1",1,2.51,4.5
+"Spartina patens","None","90",0,"D3",18,1.15,6.1
+"Spartina patens","None","90",0,"D3",26,1.04,4.41
+"Spartina patens","None","90",0,"D1",31,2.87,3.67
+"Spartina patens","None","90",0,"D4",55,2.77,6.3
+"Spartina patens","None","90",0,"D2",58,0.98,5.92
+"Spartina patens","None","90",0,"D2",68,1.96,5.13
+"Spartina patens","None","90",0,"D4",72,1.02,5.42
+"Spartina patens","None","75",0,"S1",2,1.79,5.92
+"Spartina patens","None","75",0,"S3",16,1.95,4.78
+"Spartina patens","None","75",0,"S1",24,1.72,5.99
+"Spartina patens","None","75",0,"S3",35,2.72,6.21
+"Spartina patens","None","75",0,"S4",41,2.53,7.95
+"Spartina patens","None","75",0,"S2",43,2.15,5.67
+"Spartina patens","None","75",0,"S2",51,2.07,4.26
+"Spartina patens","None","75",0,"S4",54,4.25,6.07
+"Spartina patens","None","0",3,"C2",5,3.51,6.85
+"Spartina patens","None","0",3,"C1",6,5.53,6.43
+"Spartina patens","None","0",3,"C2",20,4.54,6.24
+"Spartina patens","None","0",3,"C3",38,1.1,6.69
+"Spartina patens","None","0",3,"C3",45,2.68,4.82
+"Spartina patens","None","0",3,"C4",61,4.86,6.72
+"Spartina patens","None","0",3,"C4",65,5.79,8.79
+"Spartina patens","None","90",3,"D1",12,3.29,6.06
+"Spartina patens","None","90",3,"D3",13,2.42,5.88
+"Spartina patens","None","90",3,"D3",27,2.81,8.99
+"Spartina patens","None","90",3,"D1",32,1.05,4.38
+"Spartina patens","None","90",3,"D4",57,4.03,6.63
+"Spartina patens","None","90",3,"D2",59,10.71,7.42
+"Spartina patens","None","90",3,"D2",69,4.67,7.38
+"Spartina patens","None","90",3,"D4",71,2.42,5.41
+"Spartina patens","None","75",3,"S1",9,1.91,6.48
+"Spartina patens","None","75",3,"S3",17,1.69,4.55
+"Spartina patens","None","75",3,"S1",22,1.6,6.33
+"Spartina patens","None","75",3,"S3",34,2.18,6.02
+"Spartina patens","None","75",3,"S4",40,2.59,5.78
+"Spartina patens","None","75",3,"S2",42,1.62,4.85
+"Spartina patens","None","75",3,"S2",50,1.58,4.18
+"Spartina patens","None","75",3,"S4",53,3.38,5.06
+"Spartina patens","None","0",6,"C2",3,4.02,6.66
+"Spartina patens","None","0",6,"C1",7,2.98,6.7
+"Spartina patens","None","0",6,"C2",21,4.74,6.69
+"Spartina patens","None","0",6,"C1",30,3.19,6.67
+"Spartina patens","None","0",6,"C3",46,1.52,6.19
+"Spartina patens","None","0",6,"C3",48,4,7.06
+"Spartina patens","None","0",6,"C4",66,3.18,6.35
+"Spartina patens","None","90",6,"D1",10,2.91,5.59
+"Spartina patens","None","90",6,"D3",15,3.45,5.55
+"Spartina patens","None","90",6,"D3",25,2.31,4.4
+"Spartina patens","None","90",6,"D1",33,1.65,5.21
+"Spartina patens","None","90",6,"D4",56,1.99,5.15
+"Spartina patens","None","90",6,"D2",60,3.05,6.67
+"Spartina patens","None","90",6,"D2",67,1.57,6.58
+"Spartina patens","None","90",6,"D4",70,10.07,6.75
+"Spartina patens","None","75",6,"S1",11,1.24,4.95
+"Spartina patens","None","75",6,"S3",14,2.1,6.66
+"Spartina patens","None","75",6,"S1",23,1,4.5
+"Spartina patens","None","75",6,"S4",39,2.66,5.77
+"Spartina patens","None","75",6,"S2",44,0.86,4.2
+"Spartina patens","None","75",6,"S2",49,2.98,5.39
+"Spartina patens","None","75",6,"S4",52,0.83,3.16
+"Spartina patens","Panicum virgatum","0",0,"C2",4,3.53,1.1
+"Spartina patens","Panicum virgatum","0",0,"C1",8,3.39,6.27
+"Spartina patens","Panicum virgatum","0",0,"C2",19,4.34,4.51
+"Spartina patens","Panicum virgatum","0",0,"C1",28,6.46,3.81
+"Spartina patens","Panicum virgatum","0",0,"C3",47,3.81,4.98
+"Spartina patens","Panicum virgatum","0",0,"C4",62,7.31,3.54
+"Spartina patens","Panicum virgatum","0",0,"C4",64,1.34,4.65
+"Spartina patens","Panicum virgatum","90",0,"D1",1,0.76,5.62
+"Spartina patens","Panicum virgatum","90",0,"D3",18,1.12,2.97
+"Spartina patens","Panicum virgatum","90",0,"D3",26,0.91,3.08
+"Spartina patens","Panicum virgatum","90",0,"D1",31,1.78,4.09
+"Spartina patens","Panicum virgatum","90",0,"D4",55,7.47,4.13
+"Spartina patens","Panicum virgatum","90",0,"D2",58,2.1,2.94
+"Spartina patens","Panicum virgatum","90",0,"D2",68,4.68,3.81
+"Spartina patens","Panicum virgatum","75",0,"S1",2,1.42,3.09
+"Spartina patens","Panicum virgatum","75",0,"S3",16,2.83,3.78
+"Spartina patens","Panicum virgatum","75",0,"S1",24,1.5,4.46
+"Spartina patens","Panicum virgatum","75",0,"S3",35,1.3,5.68
+"Spartina patens","Panicum virgatum","75",0,"S4",41,2.86,3.74
+"Spartina patens","Panicum virgatum","75",0,"S2",43,1.73,3.84
+"Spartina patens","Panicum virgatum","75",0,"S2",51,2.21,3.05
+"Spartina patens","Panicum virgatum","75",0,"S4",54,1.96,3.74
+"Spartina patens","Panicum virgatum","0",3,"C2",5,3.32,4.33
+"Spartina patens","Panicum virgatum","0",3,"C1",6,3.01,3.49
+"Spartina patens","Panicum virgatum","0",3,"C2",20,4.18,0.99
+"Spartina patens","Panicum virgatum","0",3,"C1",29,5.05,6.03
+"Spartina patens","Panicum virgatum","0",3,"C3",38,1.55,4.51
+"Spartina patens","Panicum virgatum","0",3,"C3",45,1.1,3.48
+"Spartina patens","Panicum virgatum","0",3,"C4",61,1.65,3.05
+"Spartina patens","Panicum virgatum","0",3,"C4",65,0.81,1.07
+"Spartina patens","Panicum virgatum","90",3,"D3",13,1.1,2.35
+"Spartina patens","Panicum virgatum","90",3,"D3",27,1.87,4.78
+"Spartina patens","Panicum virgatum","90",3,"D1",32,3.24,5.55
+"Spartina patens","Panicum virgatum","90",3,"D4",57,0.42,2.73
+"Spartina patens","Panicum virgatum","90",3,"D2",59,5.21,4.57
+"Spartina patens","Panicum virgatum","90",3,"D2",69,1.66,5.55
+"Spartina patens","Panicum virgatum","90",3,"D4",71,4.75,4.12
+"Spartina patens","Panicum virgatum","75",3,"S1",9,1.27,2.92
+"Spartina patens","Panicum virgatum","75",3,"S3",17,0.99,4.62
+"Spartina patens","Panicum virgatum","75",3,"S1",22,1.37,1.72
+"Spartina patens","Panicum virgatum","75",3,"S4",40,3.52,4.97
+"Spartina patens","Panicum virgatum","75",3,"S2",42,2.92,4.02
+"Spartina patens","Panicum virgatum","75",3,"S2",50,2.96,3.06
+"Spartina patens","Panicum virgatum","75",3,"S4",53,2.64,3.28
+"Spartina patens","Panicum virgatum","0",6,"C2",3,6.05,3.35
+"Spartina patens","Panicum virgatum","0",6,"C1",7,3.02,3.62
+"Spartina patens","Panicum virgatum","0",6,"C2",21,1.7,2.63
+"Spartina patens","Panicum virgatum","0",6,"C1",30,3.65,3.94
+"Spartina patens","Panicum virgatum","0",6,"C3",46,1.58,3.33
+"Spartina patens","Panicum virgatum","0",6,"C3",48,2.18,3.93
+"Spartina patens","Panicum virgatum","0",6,"C4",63,1.5,2.79
+"Spartina patens","Panicum virgatum","0",6,"C4",66,5.25,3.26
+"Spartina patens","Panicum virgatum","90",6,"D1",10,1.55,2.19
+"Spartina patens","Panicum virgatum","90",6,"D3",15,3.32,3.29
+"Spartina patens","Panicum virgatum","90",6,"D3",25,1.12,3.18
+"Spartina patens","Panicum virgatum","90",6,"D4",56,2.11,0.47
+"Spartina patens","Panicum virgatum","90",6,"D2",60,3.07,4.31
+"Spartina patens","Panicum virgatum","90",6,"D2",67,4.65,4.46
+"Spartina patens","Panicum virgatum","90",6,"D4",70,6.29,3.89
+"Spartina patens","Panicum virgatum","75",6,"S1",11,0.92,2.79
+"Spartina patens","Panicum virgatum","75",6,"S3",14,2.95,3.74
+"Spartina patens","Panicum virgatum","75",6,"S1",23,1.29,3.07
+"Spartina patens","Panicum virgatum","75",6,"S3",36,1.26,3.55
+"Spartina patens","Panicum virgatum","75",6,"S4",39,1.91,3.12
+"Spartina patens","Panicum virgatum","75",6,"S2",44,3.87,3.79
+"Spartina patens","Panicum virgatum","75",6,"S2",49,2.43,5.16
+"Spartina patens","Panicum virgatum","75",6,"S4",52,3.2,2.9
