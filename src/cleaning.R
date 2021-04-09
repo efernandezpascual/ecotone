@@ -1,5 +1,7 @@
 library(tidyverse)
 
+# Clean greenhouse data
+
 openxlsx::read.xlsx("data/plant_weights.xlsx", sheet = 5) %>%
   na.omit %>% # Remove bad rows
   merge(read.csv("data/plant_assignments.csv")) %>% # Add treatment labels
@@ -30,4 +32,16 @@ openxlsx::read.xlsx("data/plant_weights.xlsx", sheet = 5) %>%
   arrange(species, competitor, salt, shade, tray) %>%
   filter(! species %in% c("Phragmites australis", "Schoenoplectus pungens")) %>%
   filter(! competitor %in% c("Phragmites australis", "Schoenoplectus pungens")) %>%
-  write.csv("data/measures.csv", row.names = FALSE)
+  write.csv("data/greenhouse.csv", row.names = FALSE)
+
+# Clean field data
+
+openxlsx::read.xlsx("data/Biomass samples 2Jun15.xlsx") %>%
+  group_by(site, elevation, rep) %>%
+  summarise(wt = sum(wt, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(elevation = fct_relevel(elevation, c("low", "mid", "high"))) %>%
+  mutate(site = fct_recode(site, "Control East" = "ctrl east", 
+                           "Control West" = "ctrl west", 
+                           "Forest Cut" = "cut")) %>%
+  write.csv("data/field.csv", row.names = FALSE)

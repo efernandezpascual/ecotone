@@ -1,0 +1,7 @@
+"Term","df","Chi squared","p"
+"Salinity",1,0.006,"0.937"
+"Shade",1,18.767,"< 0.001"
+"Species",3,43.965,"< 0.001"
+"Competition",1,66.528,"< 0.001"
+"Salinity:Species",3,16.885,"0.001"
+"Shade:Competition",1,7.356,"0.007"
