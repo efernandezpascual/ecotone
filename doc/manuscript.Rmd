@@ -1,5 +1,5 @@
 ---
-title: "Plant competition at the leading edge of a migrating marsh-forest ecotone"
+title: "Plant competition dominates at the leading edge of a migrating marsh-forest ecotone"
 output: 
   bookdown::word_document2:
     reference_docx: template.docx
@@ -32,6 +32,16 @@ Keryn B. Gedan, Whitney Hoot, Eduardo Fernández-Pascual
 
 # Introduction
 
+Global change is producing rapid shifts in species distributions [@RN3389]. These shifts are being detected in the form of migrating ecosystems, such as alpine plant communities moving upwards as a consequence of warming [@RN4987], or coastal marshes being pushed landwards by sea level rise [@RN4972]. At the leading edge of these migrating ecosystems, conditions are those of an ecotone, and thus species distributions and abundances are affected by edge effects [@RN4986]. Of the mechanisms explaining edge effects, species interactions have received relatively little attention [@RN4986]; and among species interactions the less attention has been paid to interactions between species within the same trophic level [@RN4984]. Therefore, there are few generalizable rules about what type of ecological interactions to expect at a migrating ecotone. Nevertheless, a sound theoretical framework could be provided by the environmental stress gradient hypothesis, which suggests more intense competition where stress is low and more facilitative interactions where stress is high [@RN4989; @RN4994].
+
+The environmental stress gradient hypothesis is especially relevant for the migrating ecotone between tidal marshes and coastal forests, a system that is structured along strong and universal stress gradients, forming a stark zonation of plant communities [@RN4990]. At the marsh-forest ecotone, there are two abiotic gradients relevant to plants that exhibit major shifts: (1) salinity, which declines from the saline tidal marsh to the nonsaline upland forest, and (2) light availability, which declines from the low stature, graminoid community of the tidal marsh to the sub-canopy shrub-herbaceous community of the upland forest. Although salinity is a universal stress for terrestrial plant species, salinity stress will have a more negative effect on glycophytic upland plants relative to halophytic marsh plants. On the other hand, low light availability, also a universal challenge for photosynthetic plants, is likely to have a more negative effect on marsh plants, which generally occur in open sun environments and have high light demand. 
+
+A more refined interpretation of the environmental stress gradient hypothesis requires to take into account specific features of both the stress factors and the interacting species [@RN4985]. Regarding stress features, it is necessary to differentiate between stress that is resource-related (such as light availability) and non-resource-related (such as salinity). When stress is induced by a resource that is needed by both species, as is the case of light availability for co-occurring plants, the conceptual paradigm of the environmental stress gradient hypothesis may not hold [@RN4985]. If limited light availability is the main limiting stress factor, competition can only shift to facilitation when neighbors can increase the availability of the resource for the other species [@RN4991], which is unlikely to happen when considering understory herbaceous species. On the other hand, salinity stress is not resource driven, and plant neighbors can ameliorate soil salinity leading to facilitative interactions. [@RN4994]. In relation to the features of the interacting species, the response of their relationship to environmental stress is expected to depend on each species ability to compete and to tolerate stress [@RN2279]. 
+
+In this study, we sought to characterize plant interactions across the ecotone between tidal marsh and upland forest. In our study region of the Chesapeake Bay (USA), this ecotone is rapidly shifting due to sea level rise, as tidal marsh migrates inland [@RN4992]. Therefore, understanding species interactions across this ecotone may help us to understand the biotic and abiotic controls on species distributions within these dynamic ecosystems, and could also elucidate management options with the goal of conserving tidal marsh ecosystems in the face of accelerated sea level rise [@RN4993]. For example, if species interactions on the upland edge of the ecotone are largely competitive for marsh plants, then clearing upland plants may reduce competition for migrating individuals and increase the rate or success of migration. Similarly, if interactions are largely facilitative along this boundary, then we would expect that clearing upland plants in the way of migrating marsh plants would negatively affect migration outcomes. This is particularly relevant as forest clearing is being considered as a management alternative to increase marsh migration. The rationale for this management tactic is altering the light environment at ground level, which is thought to favor marsh plant success.
+
+We asked the question of whether the environmental stress gradient hypothesis can be applied across an ecotone where strong and universal stress gradients exist. We examined the interactions between three marsh grasses (*Spartina alterniflora* Loisel., *Spartina patens* (Aiton.), *Distichlis spicata* (L.) Greene) and one upland grass (*Panicum virgatum* L.) in a controlled greenhouse environment where we could manipulate abiotic factors to mimic opposing sides of the edge, and tease apart the effects of light availability and salinity stress, while controlling for other factors. We also surveyed field conditions where forest canopy cover had been experimentally disturbed to test the capacity of high marsh species to colonize the ecotone of intact and disturbed sites. With this experimental set up, we attempted to test the following predictions: (1) marsh species would be salinity-tolerant, the upland species would be shade-tolerant, and the upland species would be more competitive, (2) the interactions between marsh species and the upland species would shift from more negative to more positive with increasing values of salinity, but not of shade, and (3) marsh grasses would have a greater capacity to grow landwards when the forest canopy is removed.
+
 # Materials and methods
 
 ## Field work
@@ -46,7 +56,7 @@ Finally, aboveground biomass of naturally occurring high-marsh grasses (*S. pate
 
 ## Greenhouse experiment
 
-A greenhouse experiment was set up to investigate plant responses to stress and competition. Based on their occurrence at the field sites, we selected four grass species (Poaceae) that were common along the ecotone: (1) the upland plant *P. virgatum* was chosen as a focal point for the analysis, as indicator species of the marsh-forest ecotone; (2) *S. patens* and (3) *D. spicata* were chosen as indicator species of the high-marsh; and (4) *Spartina alterniflora* Loisel. was chosen as indicator species of the low marsh. This last species was included because, at some of the marshes of the US East Coast, the high marsh zone is missing and the marsh grades directly from the *S. alterniflora* low marsh to the ecotone. 
+A greenhouse experiment was set up to investigate plant responses to stress and competition. Based on their occurrence at the field sites, we selected four grass species (Poaceae) that were common along the ecotone: (1) the upland plant *P. virgatum* was chosen as a focal competitor for the analysis, as indicator species of the marsh-forest ecotone: in the field, this species grows best in the low light and low salinity conditions of the leading edge of the ecotone [@RN4995]; (2) *S. patens* and (3) *D. spicata* were chosen as indicator species of the high-marsh; and (4) *Spartina alterniflora* Loisel. was chosen as indicator species of the low marsh. This last species was included because, at some of the marshes of the US East Coast, the high marsh zone is missing and the marsh grades directly from the *S. alterniflora* low marsh to the ecotone. 
 
 Plants of the four species were purchased as 5 cm x 5 cm plugs from a plant nursery (Environmental Concern, St. Michaels, MD). Roots of plugs were gently separated before being planted alone (i.e. no competition) or with a neighbor (i.e. competition). To focus on ecotone interactions between upland and tidal marsh species, the neighbor crosses consisted of *P. virgatum* and one of the three marsh species. Plants were planted within one week of purchase, in experimental pots (11.4 x 11.4 x 15.2 cm) filled with Px-1 Metro Mix Soil. Thus, each pot contained either one (no competition pots) or two (competition pots) individual plants. Pots were transferred to a greenhouse bay where they were watered with fresh water to recover from transplant stress for a period of 10 days. After the recovery period, plants were transferred to trays without drainage holes to mimic flooded conditions. Each tray contained all neighbor combinations. One week later, shade and salinity treatments were started. 
 
@@ -58,21 +68,19 @@ The experimental treatments were continued for 16 weeks, during which treatments
 
 ## Statistical analysis
 
-### Goal 1 - Effect of salinity, shade and competition on biomass growth
+### Goal 1 - Species responses to salinity, shade and competition
 
-To test the interactive effects of salinity, shade and competition on plant growth, the greenhouse biomass dataset was analyzed using linear mixed models as implemented in the 'nlme' package [@RN2333] of R [@RN2315]. First, fully factorial models were fitted, including the main effects of species identity, competition (i.e. whether the species was planted alone or with a neighbor), salinity and shade; plus all possible interactions; plus shade tent and tray as random factors. Then a model selection was applied, sequentially removing non-significant interaction, until the minimal adequate model that best explained the data was found [@RN3202]. The R script for this and subsequent analyses are available in the src folder of the GitHub repository (see Data Availability Statement).
+To test the stress-tolerant or competitive character of the study species, the greenhouse biomass dataset was analyzed using linear mixed models as implemented in the 'nlme' package [@RN2333] of R [@RN2315]. First, fully factorial models were fitted, including the main effects of species identity, competition (i.e. whether the species was planted alone or with a neighbor), salinity and shade; plus all possible interactions; plus shade tent and tray as random factors. Then a model selection was applied, sequentially removing non-significant interaction, until the minimal adequate model that best explained the data was found [@RN3202]. The R script for this and subsequent analyses are available in the src folder of the GitHub repository (see Data Availability Statement).
 
-### Goal 2 - Effect of salinity and shade on the competitive interactions of *P. virgatum*
+### Goal 2 - Effect of salinity and shade on the competitive interactions with *P. virgatum*
 
-To measure the competitive interactions of *P. virgatum* with the migrating marsh species, relative interaction indices (RIIs) [@RN4979] were calculated using the greenhouse biomass dataset. RIIs were calculated at the tray level for each species and neighbor, following 
+To measure the competitive interactions of the migrating marsh species with the upland grass *P. virgatum*, relative interaction indices (RIIs) [@RN4979] were calculated using the greenhouse biomass dataset. RIIs were calculated at the tray level for each marsh species, following 
 
 RII = (B~a~ - B~n~) / (B~a~ + B~n~)
 
-where B~a~ is the biomass of the species when grown alone and B~n~ is the biomass of the species when grown with a neighbor. RIIs take values from -1 (maximum competition) to +1 (maximum facilitation), with zero indicating no effect.
+where B~a~ is the biomass of the species when grown alone and B~n~ is the biomass of the species when grown with *P. virgatum*. RIIs take values from -1 (maximum competition) to +1 (maximum facilitation), with zero indicating no effect.
 
-To focus on *P. virgatum*, a net RII was calculated for each pairwise interaction of *P. virgatum* with a marsh species, by subtracting the RII calculated for the marsh species from the RII calculated for *P. virgatum*. Positive values of the net RII would indicate a competitive dominance of *P. virgatum*, while negative values would indicate a dominance of the marsh species, and zero would indicate equality.
-
-The interactive effects of salinity, shade and competitor species on the net RIIs of *P. virgatum* were modeled using linear mixed models as implemented in the 'nlme' package [@RN2333] of R [@RN2315]. First, fully factorial models were fitted, including the main effects of competitor identity, salinity and shade; plus all possible interactions; plus shade tent and tray as random factors. Then a model selection was applied, sequentially removing non-significant interaction, until the minimal adequate model that best explained the data was found [@RN3202]. 
+The interactive effects of salinity, shade and species identity on the RIIs of their interaction with *P. virgatum* were modeled using linear mixed models as implemented in the 'nlme' package [@RN2333] of R [@RN2315]. First, fully factorial models were fitted, including the main effects of species identity, salinity and shade; plus all possible interactions; plus shade tent and tray as random factors. Then a model selection was applied, sequentially removing non-significant interaction, until the minimal adequate model that best explained the data was found [@RN3202]. 
 
 ### Goal 3 - Effect of canopy cut on field growth of high marsh grasses
 
@@ -84,19 +92,46 @@ To test the effect of forest clearings in the ability of high marsh grasses to c
 
 Results of the greenhouse experiment indicated that biomass growth was driven by two significant (p < 0.05) interactions, one between species identity and responses to salinity, and another between competition and responses to shade (**Table 1**). 
 
-Thus, the response to salinity was species-dependent and did not interact with shade or competition: the low marsh grass *S. alterniflora* produced higher biomass with increasing salinity; the high marsh indicators *S. patens* and *D. spicata* were largely indifferent to salinity; and the marsh-forest ecotone species *P. virgatum* had a negative response to increasing salinity (**Fig. 1**).
+Thus, the response to salinity was species-dependent and did not interact with shade or competition: the low marsh grass *S. alterniflora* produced higher biomass with increasing salinity; the high marsh indicators *S. patens* and *D. spicata* were indifferent to salinity; and the marsh-forest ecotone species *P. virgatum* had a negative response to increasing salinity (**Fig. 1**).
 
 At the same time, the growth response to shade was not significantly different between the four species (p > 0.05): all species responded negatively to increasing levels of shade (**Fig. 2**). Response to shade did not interact with salinity, but was affected by whether the plants were grown alone or in competition: plants in competition produced less biomass than plants grown alone in all levels of shade (**Fig. 2**), but at the highest level the decrease was less pronounced in plants grown in competition, since they were already limited by the competitor. 
 
-## Goal 2 - Effect of salinity and shade on the competitive interactions of *P. virgatum*
+## Goal 2 - Effect of salinity and shade on the competitive interactions with *P. virgatum*
 
-The analysis of the net RIIs showed that the strength of competition was not affected by the levels of salinity or shade; and only the competitor identity had a significant effect (**Table 2**). *P. virgatum* had competitive domination over the low marsh plant *S. alterniflora* as indicated by a positive net RII; while its net RIIs with the high marsh species *S. patens* and *D. spicata* were close to zero, indicating a balanced competition (**Fig. 3**). 
+The analysis of the net RIIs showed that the strength of competition was not affected by the levels of salinity or species identity; and only the shade levels had a significant effect (**Table 2**). The interaction of the marsh species with *P. virgatum* was most negative at the middle shade treatment, and become the least negative in the full shade treatment, without ever becoming positive, i.e. facilitative (**Fig. 3**). 
 
 ## Goal 3 - Effect of canopy cut on field growth of high marsh grasses
 
 The field biomass measurements supported a higher capacity of high marsh grasses (*S. patens* and *D. spicata*) to colonize landwards at the forest cut site (**Fig. 4**). There were significant differences in biomass along the marsh-forest gradient, but these were affected by the site where the measurements were made (**Table 3**): at the two intact forest control sites, biomass sharply declined at the deep forest points; while at the forest cut site the biomass of the marsh grasses was still high at the deep forest point (**Fig. 4**). 
 
 # Discussion
+
+Key findings:
+
+Goal 1
+
+* Species salinity-tolerance follows what can be expected from the system's zonation.
+* Species shade-tolerance is similar; Panicum is not especially shade-tolerant (at least not statistically significant).
+* Species competition-tolerance is similar; again Panicum is not especially tolerant of competition.
+
+Goal 2
+
+* Interactions are almost always competitive for marsh plants, no evidence of facilitation, therefore giving support to removal of upland plants. As the ESG deals with facilitation, it does not generally apply to this system.
+* No effect of salinity in the interaction contradicts ESG hypothesis: after all, marsh species are salinity-tolerant. It is worth mentioning that I did not include the interactions of Panicum when grown with the marsh species because it does not fit with the narrative as it is now: we want to know if marsh plants are facilitated or not by upland plants, i.e. we do not care for upland plants. However, there is ALSO no evidence that facilitation is widespread for Panicum when interacting with marsh plants.
+* Effect of shade in the interactions indicate that competition with Panicum is especially intense at mid-shade, which makes sense: at low shade, light not limitant, at high shade, also Panicum limited. Question: would the best policy be to NOT clear trees, but remove Panicum and other forest understory? In migrating marshes, what change occurs first: tree deaths, or substitution of the understory?
+
+Goal 3
+
+* Gives support to the idea of forest cuttings.
+
+Caveats
+
+* Flood might have affected Panicum disproportionally?
+* Pairwise approach does not account for the possibility of competitive suppression of a competitor, known as indirect facilitation
+* Lortie and Callaway (2006)’s critique of stress gradients of various lengths being lumped together. Do the shade gradient and salinity gradient represent “equivalent” lengths? They were based on the reality of the system, but of course, this is just one systems – salinity gradients can be more extreme in euhaline marsh-upland boundaries, and shade gradients would be more extreme in marsh-deciduous forest ecotones. He and Bertness (2014): environmental gradients versus stress gradients
+
+Biomass does not equal fitness (Goldberg et al. 1999)…
+
 
 # Data availability
 
@@ -106,20 +141,6 @@ The original datasets, R code for the analysis and creation of the manuscript ca
 
 ::: {#refs}
 :::
-
-# Tables
-
-```{r table1, echo = FALSE}
-read.csv("../results/Table1.csv") %>% rename(`Chi-squared` = Chi.squared) %>% flextable() %>% autofit() %>% align(j = 4, align = "right", part = "all") %>% fontsize(size = 12) %>% set_caption("Table 1 Anova table for the effect of species identity, salinity, shade and competition on final biomass in the greenhouse. The output shown is for a minimal adequate model selected by sequential removal of non-significant interactions. The model is a linear mixed model with shade tent and tray as random factors.")
-```
-
-```{r table2, echo = FALSE}
-read.csv("../results/Table2.csv") %>% rename(`Chi-squared` = Chi.squared) %>% flextable() %>% autofit() %>% align(j = 4, align = "right", part = "all") %>% fontsize(size = 12) %>% set_caption("Table 2 Anova table for the effect of competitor identity, salinity and shade on the net Relative Interaction Indix (RII) of *Panicum virgatum* competing with three marsh species in the greenhouse. The net Relative Interaction Index (RII) was calculated for each pairwise species comparison, by substracting the RII calculated for the marsh species from the RII calculated for *P. virgatum*. The output shown is for a minimal adequate model selected by sequential removal of non-significant interactions and main effects. The model is a linear mixed model with shade tent and tray as random factors.")
-```
-
-```{r table3, echo = FALSE}
-read.csv("../results/Table3.csv") %>% flextable() %>% autofit() %>% align(j = 4, align = "right", part = "all") %>% fontsize(size = 12) %>% set_caption("Table 3 Anova table for the effect of site and elevation along the marsh-forest gradient on the aggregate biomass of high marsh grasses (*Spartina patens* and *Distichlis spicata*) collected in the field. The model is a linear model.")
-```
 
 # Figures
 
@@ -131,10 +152,24 @@ knitr::include_graphics("../results/f1.png")
 knitr::include_graphics("../results/f2.png")
 ```
 
-```{r fig3, echo = FALSE, fig.pos = "H", fig.cap = "Competition between the forest grass *Panicum virgatum* and three marsh grasses grown in the greenhouse. The net Relative Interaction Index (RII) was calculated for each pairwise species comparison, by substracting the RII calculated for the marsh species from the RII calculated for *P. virgatum*. The RIIs were calculated by averaging all treatments of salinity and shade. Bars indicate the average net RII, and whiskers the standard error. Positive values of the net RII indicate a competitive dominance of *P. virgatum*, while negative values would indicate a dominance of the marsh species, and zero indicates equality."}
+```{r fig3, echo = FALSE, fig.pos = "H", fig.cap = "Competition between three marsh grasses and the upland forest grass *Panicum virgatum* grown in the greenhouse. The Relative Interaction Index (RII) was calculated for each marsh species by comparing its growth alone to its growth when grown with *P. virgatum* species comparison. The RIIs were calculated by averaging all treatments of salinity for all species. Bars indicate the average RII, and whiskers the standard error. Positive values of the RII would indicate a facilitative interaction, while negative values indicate a competitive interaction, and zero a neutral interaction."}
 knitr::include_graphics("../results/f3.png")
 ```
 
 ```{r fig4, echo = FALSE, fig.pos = "H", fig.cap = "Field growth of high marsh grasses (*Spartina patens* and *Distichlis spicata*). Lines indicate the average aggregated biomass of the two species at three positions in the marsh-forest gradient, and whiskers the standard error. Biomass was collected from three sites: two control intact forest sites and a forest cut site where the canopy had been removed."}
 knitr::include_graphics("../results/f4.png")
+```
+
+# Tables
+
+```{r table1, echo = FALSE}
+read.csv("../results/Table1.csv") %>% rename(`Chi-squared` = Chi.squared) %>% flextable() %>% autofit() %>% align(j = 4, align = "right", part = "all") %>% fontsize(size = 12) %>% set_caption("Table 1 Anova table for the effect of species identity, salinity, shade and competition on final biomass in the greenhouse. The output shown is for a minimal adequate model selected by sequential removal of non-significant interactions. The model is a linear mixed model with shade tent and tray as random factors.")
+```
+
+```{r table2, echo = FALSE}
+read.csv("../results/Table2.csv") %>% rename(`Chi-squared` = Chi.squared) %>% flextable() %>% autofit() %>% align(j = 4, align = "right", part = "all") %>% fontsize(size = 12) %>% set_caption("Table 2 Anova table for the effect of species identity, salinity and shade on the net Relative Interaction Index (RII) of three marsh species competing with *Panicum virgatum* in the greenhouse. The output shown is for a minimal adequate model selected by sequential removal of non-significant interactions and main effects. The model is a linear mixed model with shade tent and tray as random factors.")
+```
+
+```{r table3, echo = FALSE}
+read.csv("../results/Table3.csv") %>% flextable() %>% autofit() %>% align(j = 4, align = "right", part = "all") %>% fontsize(size = 12) %>% set_caption("Table 3 Anova table for the effect of site and elevation along the marsh-forest gradient on the aggregate biomass of high marsh grasses (*Spartina patens* and *Distichlis spicata*) collected in the field. The model is a linear model.")
 ```

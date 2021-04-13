@@ -73,8 +73,8 @@ df1.1 %>%
   ggplot(aes(salt, 100 * y, color = species)) +
   geom_line(size = 1.5) +
   geom_errorbar(aes(ymin = 100 * ymin, ymax = 100 * ymax), width = 0.08, size = .6, alpha = 0.5) +
-  scale_color_manual(values = c("orange", "saddlebrown", 
-                                "turquoise", "yellowgreen")) + 
+  scale_color_manual(values = c("gold", "saddlebrown", 
+                                "deepskyblue", "yellowgreen")) + 
   scale_x_continuous(breaks = c(0, 3, 6)) +
   ggthemes::theme_tufte() +
   theme(legend.position = "none", 
@@ -88,8 +88,8 @@ df1.1 %>%
         axis.text.y = element_text(size = 12, color = "black"),
         axis.text.x = element_text(size = 12, color = "black"),
         strip.placement = "outside") +
-  annotate("text", x = 4.8, y = 170, label = "S. alterniflora", color = "turquoise", fontface = "italic") +
-  annotate("text", x = 4.8, y = 110, label = "D. spicata", color = "orange", fontface = "italic") +
+  annotate("text", x = 4.8, y = 170, label = "S. alterniflora", color = "deepskyblue", fontface = "italic") +
+  annotate("text", x = 4.8, y = 110, label = "D. spicata", color = "gold", fontface = "italic") +
   annotate("text", x = 4.8, y = 85, label = "S. patens", color = "yellowgreen", fontface = "italic") +
   annotate("text", x = 4.8, y = 60, label = "P. virgatum", color = "saddlebrown", fontface = "italic") +
   geom_hline(yintercept = 100,linetype = "dashed") +
@@ -121,8 +121,8 @@ df1.2 %>%
          ymax = (biomassm + se) / biomasst) %>%
   ggplot(aes(shade, 100 * y, color = competitor)) +
   geom_line(size = 1.5) +
-  geom_errorbar(aes(ymin = 100 * ymin, ymax = 100 * ymax), width = 1.2, size = .6, alpha = 0.5) +
-  scale_color_manual(values = c("forestgreen", "gold")) + 
+  geom_errorbar(aes(ymin = 100 * ymin, ymax = 100 * ymax), width = 1.2, size = .6) +
+  scale_color_manual(values = c("forestgreen", "violetred1")) + 
   scale_x_continuous(breaks = c(0, 75, 90)) +
   ggthemes::theme_tufte() +
   theme(legend.position = "none", 
@@ -137,7 +137,7 @@ df1.2 %>%
         axis.text.x = element_text(size = 12, color = "black"),
         strip.placement = "outside") +
   annotate("text", x = 20, y = 105, label = "Growing alone", color = "forestgreen") +
-  annotate("text", x = 20, y = 83, label = "In competition", color = "gold") +
+  annotate("text", x = 20, y = 83, label = "In competition", color = "violetred1") +
   geom_hline(yintercept = 100,linetype = "dashed") +
   guides(color = guide_legend(ncol = 2)) +
   xlab("Shade (%)") + 
