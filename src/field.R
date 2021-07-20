@@ -10,8 +10,8 @@ lm(wt ~ site * elevation, data = df3) -> m3
 
 car::Anova(m3, type = 3) -> Table3; Table3
 
-rownames(Table3) <- c("(Intercept)", "Site", "Elevation",
-                      "Site:Elevation", "Residuals")
+rownames(Table3) <- c("(Intercept)", "Site", "Location",
+                      "Site:Location", "Residuals")
 Table3[-c(1, 5), ] %>% 
   data.frame() %>%
   rownames_to_column("Term") %>%
