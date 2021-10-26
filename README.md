@@ -1,7 +1,7 @@
 README.md
 ================
 
-![](ecotone.JPG)
+![](ecotone.jpg)
 
 # Plant competition dominates at the leading edge of a migrating marsh-forest ecotone
 
@@ -18,11 +18,11 @@ and storing research projects.
 
 The following materials are available in the folders of this repository:
 
--   `data` Original data files, including the results of the [greenhouse
+  - `data` Original data files, including the results of the [greenhouse
     experiments](https://github.com/efernandezpascual/ecotone/blob/master/data/greenhouse.csv)
     and the [field
     measurements](https://github.com/efernandezpascual/ecotone/blob/master/data/field.csv).
--   `src` Scripts in `R` language used to perform the analyses of the
+  - `src` Scripts in `R` language used to perform the analyses of the
     manuscript, including [the effect of stress and competition on
     biomass
     (hypothesis 1)](https://github.com/efernandezpascual/ecotone/blob/master/src/biomass.R),
@@ -30,7 +30,7 @@ The following materials are available in the folders of this repository:
     (hypothesis 2)](https://github.com/efernandezpascual/ecotone/blob/master/src/rii.R)
     and [effect of forest cut on marsh species growth
     (hypothesis 3)](https://github.com/efernandezpascual/ecotone/blob/master/src/field.R).
--   `results` Output of the `R` scripts, including figures and model
+  - `results` Output of the `R` scripts, including figures and model
     tables.
 
 ## Abstract
