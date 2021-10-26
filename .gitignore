@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+data/Biomass samples 2Jun15.xlsx
+data/light.csv
+data/plant_assignments.csv
+data/plant_weights.csv
+src/cleaning.R
+doc/
