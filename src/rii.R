@@ -88,7 +88,8 @@ df2 %>%
   geom_hline(yintercept = 0,linetype = "dashed") +
   guides(color = guide_legend(ncol = 2)) +
   xlab("Shade (%)") + 
-  ylab("Relative Interaction Index") -> fa; fa
+  ylab("Relative Interaction Index") +
+  labs(title = "C")  -> f3; f3
 
 ggsave(fa, file = "results/f3.png", 
        path = NULL, scale = 1, width = 85, height = 85, units = "mm", dpi = 600)

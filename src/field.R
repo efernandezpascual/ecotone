@@ -55,7 +55,21 @@ df3 %>%
   geom_hline(yintercept = 0,linetype = "dashed") +
   guides(color = guide_legend(ncol = 2)) +
   xlab("Marsh-forest gradient") + 
-  ylab("Biomass (g per 10x10 cm quadrat)")-> f4; f4
+  ylab("Biomass (g per 10x10 cm quadrat)") +
+  labs(title = "D") -> f4; f4
 
 ggsave(f4, file = "results/f4.png", 
        path = NULL, scale = 1, width = 85, height = 85, units = "mm", dpi = 600)
+
+# Group figures
+
+cowplot::plot_grid(f1, f2, f3, f4) -> f
+
+ggsave(f, file = "results/f.png", 
+       path = NULL, scale = 1, width = 6, height = 6, units = "in", dpi = 600)
+
+# Posthoc
+
+aov(wt ~ site * elevation, data = df3) -> m3B
+summary(m3B)
+TukeyHSD(m3B, conf.level=.95)

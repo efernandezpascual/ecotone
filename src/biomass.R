@@ -95,7 +95,8 @@ df1.1 %>%
   geom_hline(yintercept = 100,linetype = "dashed") +
   guides(color = guide_legend(ncol = 2)) +
   xlab("Salinity (psu)") + 
-  ylab("Biomass (% of zero-stress treatment)") -> f1; f1
+  ylab("Biomass (% of zero-stress treatment)") +
+  labs(title = "A")  -> f1; f1
 
 ggsave(f1, file = "results/f1.png", 
        path = NULL, scale = 1, width = 85, height = 85, units = "mm", dpi = 600)
@@ -141,7 +142,8 @@ df1.2 %>%
   geom_hline(yintercept = 100,linetype = "dashed") +
   guides(color = guide_legend(ncol = 2)) +
   xlab("Shade (%)") + 
-  ylab("Biomass (% of zero-stress treatment)")-> f2; f2
+  ylab("Biomass (% of zero-stress treatment)") +
+  labs(title = "B") -> f2; f2
 
 ggsave(f2, file = "results/f2.png", 
        path = NULL, scale = 1, width = 85, height = 85, units = "mm", dpi = 600)
